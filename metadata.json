@@ -1,0 +1,6 @@
+{
+  "name": "Creature Engine Visualizer",
+  "description": "Interactive visualizer and simulator for Creatures-inspired DNA matrix, Poker Bot L1-L5 decision corridors, and Iris autonomous agent training academy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
